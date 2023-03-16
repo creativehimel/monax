@@ -224,3 +224,52 @@ ul li{
     padding-top: 15px;
 }
 /* =============== Experience Section CSS End ================== */
+/* =============== Newsletter Section CSS Start ================== */
+.newsletter{
+    background-color: #344763;
+}
+.newsletter-sec{
+    padding: 70px 0;
+    text-align: center;
+}
+.newsletter-sec h2{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+    color: #FFFFFF;
+}
+.newsletter-sec p{
+    width: 650px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 28px;
+    margin: 0 auto;
+    text-align: center;
+    color: #EAEBF5;
+    padding-top: 10px;
+}
+.newsletter-form{
+    padding-top: 10px;
+}
+.newsletter-form input{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px 0px 0px 4px;
+}
+.newsletter-form input:focus-visible{
+    outline: none;
+}
+.newsletter-form button{
+    padding: 10px 20px;
+    margin-left: -5px;
+    border: none;
+    background: #55BC7E;
+    border-radius: 0px 4px 4px 0px;
+    font-weight: 500;
+    color: #FFFFFF;
+
+}
+
+
+
+/* =============== Newsletter Section CSS End ================== */
